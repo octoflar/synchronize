@@ -1,2 +1,2 @@
-# synchronize
-Synchronizes your documents
+# Synchronize
+Synchronizes your documents with a remote host.
