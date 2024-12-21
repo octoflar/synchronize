@@ -1,4 +1,7 @@
 ## @file synchronize.applescript
+## Syncronizes your documents with a remote host. To create an
+## application from this script, open this script in Script-Editor
+## and export it as stay-open application.
 ## @author Ralf Quast
 ## @date 2024
 ## @copyright GPL
